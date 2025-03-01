@@ -28,6 +28,12 @@ const services = [
     features: ['Job Search', 'Interview Prep', 'Visa Support']
   },
   {
+    icon: <UserPlus className="h-8 w-8 text-primary-600" />,
+    title: 'HR Recruitment',
+    description: 'Specialized recruitment services for healthcare professionals worldwide',
+    features: ['Talent Acquisition', 'Candidate Screening', 'Placement Services']
+  },
+  {
     icon: <Award className="h-8 w-8 text-primary-600" />,
     title: 'Career Development',
     description: 'Ongoing support for your nursing career growth and advancement',
