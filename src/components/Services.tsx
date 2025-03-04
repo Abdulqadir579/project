@@ -1,5 +1,5 @@
 import React from 'react';
-import { Stethoscope, GraduationCap, FileCheck, Globe2, Award, Users, BookOpen, Briefcase } from 'lucide-react';
+import { Stethoscope, GraduationCap, FileCheck, Globe2, Award, Users, BookOpen, Briefcase, UserPlus } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 const services = [
