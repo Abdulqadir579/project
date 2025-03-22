@@ -32,7 +32,7 @@ export const consultants = [
       'Dataflow Verification Process',
       'Immigration Procedures'
     ],
-    whatsappNumber: '971565568684'
+    whatsappNumber: '+1(586)3441935'
   },
   {
     name: 'Noureen Kamran',
