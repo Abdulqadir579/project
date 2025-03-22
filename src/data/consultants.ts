@@ -100,6 +100,6 @@ export const consultants = [
       'Healthcare Integration',
       'Career Development'
     ],
-    whatsappNumber: '923472316123'
+    whatsappNumber: '15863441935'
   }
 ];
