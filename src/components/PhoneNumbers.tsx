@@ -9,6 +9,12 @@ const phoneNumbers = [
     whatsapp: '971551510873',
   },
   {
+    number: '+971 6 536 3255',
+    country: 'UAE (Landline)',
+    flag: '🇦🇪',
+    whatsapp: '971551510873',
+  },
+  {
     number: '+1 (901) 656-4891',
     country: 'USA',
     flag: '🇺🇸',
