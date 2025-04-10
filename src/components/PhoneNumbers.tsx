@@ -20,12 +20,6 @@ const phoneNumbers = [
     flag: '🇺🇸',
     whatsapp: '17065230031',
   },
-  {
-    number: '+92 347 2316123',
-    country: 'Pakistan',
-    flag: '🇵🇰',
-    whatsapp: '923472316123',
-  },
 ];
 
 export function PhoneNumbers() {
