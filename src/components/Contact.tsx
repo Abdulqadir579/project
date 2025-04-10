@@ -12,8 +12,7 @@ export function Contact() {
 
   const whatsappNumber = "971551510873";
   const emails = [
-    'overseasnursesolutions@gmail.com',
-    'overseasnursesolutionsFZC@gmail.com'
+    'info@overseasnursesolutions.com',
   ];
 
   const handleSubmit = (e: React.FormEvent) => {
